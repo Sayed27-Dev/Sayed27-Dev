@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Sayed27-Dev
-- 👀 I’m interested in Java Development 
-- 🌱 I’m currently pursuing my B.Tech Degree 
-- 📫 Feel free to reach out to me if you have any questions.
+👋 Hello! I’m Sayed
 
-<!---
-Sayed27-Dev/Sayed27-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Data Analyst | Data Visualization Enthusiast | Programmer
+
+💡 Skills:
+
+Programming Languages: Python, R, SQL
+Data Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn
+Data Analysis: Pandas, NumPy, Scikit-learn
+🌟 Passionate about turning data into actionable insights and creating visually compelling stories with data.
+
+📈 Projects: Check out my repositories for projects on data analysis, machine learning, and interactive dashboards.
+
+🌐 Connect with me:
+www.linkedin.com/in/sayed-rahaman
